@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* img{
+    width: 300px;
+    height: 300px;
+    left: 40px;
+    top: 16px;
+    animation-name: carmove;
+    animation-duration: 4s;
+}
+.car{
+    width: 300px;
+    height: 300px;
+}
+
+@keyframes carmove{
+    0%{
+        top: 16px;
+        left: 40px;
+        transform: rotate(0deg);
+
+    }
+    33.32%{
+        transform: rotate(0deg);
+
+    }
+    33.33%{
+        top: 16px;
+        left: 280px;
+        transform: rotate(0);
+        transform: rotate(90deg);
+
+    }
+    66.66%{   
+        left: 280px;
+        top: 250px;
+        transform: rotate(90deg);
+    }
+    66.67%{
+        transform: rotate(180deg);
+    }
+    99.99%{
+        top: 250px;
+        left: 40px;
+        transform: rotate(180deg);
+    }
+    100%{
+   top: 250px;
+   left: 40px;
+    }
+} */
